@@ -1,0 +1,2 @@
+# Fermentation-kinetics-calculator
+This python script calculate the kinetics of the fermentation process by taking only the Xo and Xt and time of fermentation in addition to substrate concentration which is optional. From these values, the script calculates the specific growth rate of the microorganism, no. of generations and its doubling time. In addition to substrate consumption if the user inputted the substrate concentration.
